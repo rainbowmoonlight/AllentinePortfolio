@@ -1,2 +1,2 @@
 # AllentinePortfolio
-Try [Allentine Portfolio](https://github.com/rainbowmoonlight/AllentinePortfolio)
+Try [Allentine Portfolio](https://rainbowmoonlight.github.io/AllentinePortfolio/)
